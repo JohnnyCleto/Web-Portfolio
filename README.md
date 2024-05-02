@@ -7,7 +7,7 @@ Este é o repositório do projeto de um web portfólio desenvolvido por João Vi
 
 ## Visão Geral
 
-Este projeto consiste em um site estático desenvolvido utilizando HTML, CSS e JavaScript. Ele contém seções que apresentam informações sobre João Vitor Cleto, seus projetos, uma breve descrição sobre ele e suas habilidades, além de um formulário de contato.
+Este projeto consiste em um site estático desenvolvido utilizando HTML, CSS. Ele contém seções que apresentam informações sobre João Vitor Cleto, seus projetos, uma breve descrição sobre ele e suas habilidades, além de um formulário de contato.
 
 ## Estrutura do Projeto
 
