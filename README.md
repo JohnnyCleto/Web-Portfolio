@@ -1,6 +1,7 @@
 # Projeto de Portfólio Web - João Vitor Cleto
 
 ![Portfólio Web](portifolio-web/imag/web-portfólio.jpg)
+#
 Este é o repositório do projeto de um web portfólio desenvolvido por João Vitor Cleto. O objetivo deste projeto é demonstrar suas habilidades como desenvolvedor web e fornecer informações sobre suas experiências, habilidades e projetos.
 
 ## Visão Geral
